@@ -1,5 +1,5 @@
 
-A smart, voice-driven expense tracking web app built with **Flask**, **OpenAI GPT**, and **Speech-to-Text** technology.  
+A smart, voice-driven expense tracking web app built with **Flask**, **OpenAI API**, and **Speech-to-Text** technology.  
 Simply speak your expenses — the app extracts the amount, category, and description automatically and keeps your monthly records organized.
 
 
